@@ -1,0 +1,12 @@
+path: \\?\C:\Users\dell\Desktop\EVE\earthwork-volume-estimation\data\dronesite\YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: sand
+    1: jcb
+    2: fill
+    3: house
+    4: truck
+    5: drone
